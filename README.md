@@ -10,8 +10,8 @@
 </div>
 <br>
 
-## 🙋‍♂️ Connect with me Admin at blog:  
-[![YouTube](https://camo.githubusercontent.com/11c05f5966811f5bea6f8263c5151841ae86271343bfeec574de252d4245d751/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d596f75547562652b4368616e6e656c3b4465764f70732b456e67696e6565723b2532425375627363726962652b666f722b6d6f72652b766964656f732663656e7465723d747275652677696474683d333830266865696768743d3435)](https://www.youtube.com/@nhhai1605)
+## 🙋‍♂️ Connect with me Admin at blog:
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nhhai1605)
 
 ## About Me 👋
 👀 I am interested in Web, internal software HRM, QLK, ERP etc..
