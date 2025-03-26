@@ -10,7 +10,9 @@
 </div>
 <br>
 
-## 🙋‍♂️ Connect with me Admin at blog
+## 🙋‍♂️ Connect with me Admin at blog <a href="https://www.youtube.com/@nhhai1605">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel">
+</a>
 
 ## About Me 👋
 👀 I am interested in Web, internal software HRM, QLK, ERP etc..
