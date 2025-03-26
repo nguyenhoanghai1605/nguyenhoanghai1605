@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate in developing innovative software.
 
-## 📫📞 How to reach me:
+## 📫 How to reach me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nguyenhoanghai1605)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenhoanghai16051996@gmail.com)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white)](https://zalo.me/0343327971)
