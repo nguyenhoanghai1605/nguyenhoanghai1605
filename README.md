@@ -20,6 +20,16 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/nguyenhoanghai1605)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/nguyenhoanghai1605)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat&logo=microsoft-powerapps&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/nguyenhoanghai1605)
+[![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/nguyenhoanghai1605)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Zalo Mini Apps](https://img.shields.io/badge/Zalo%20Mini%20Apps-00AEEF?style=flat&logo=zalo&logoColor=white)](https://github.com/nguyenhoanghai1605)
+
 
 
 
