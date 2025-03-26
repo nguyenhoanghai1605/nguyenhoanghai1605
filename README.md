@@ -1,9 +1,12 @@
+Welcome to Hai Nguyen's profile! [![My GitHub](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)](https://github.com/nguyenhoanghai1605)
+[![My Badge](https://camo.githubusercontent.com/11c05f5966811f5bea6f8263c5151841ae86271343bfeec574de252d4245d751/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d46756c6c2d737461636b2b646576656c6f7065723b4465764f70732b456e67696e6565723b253242372b79656172732b636f64696e672b657870657269656e63653b412b626c6f676765722663656e7465723d747275652677696474683d333830266865696768743d3435)](https://github.com/nguyenhoanghai1605)
+
 ## About Me 👋
 👀 I am interested in Web, internal software HRM, QLK, ERP etc..
 
 🌱 My skills includes .NET(C#, VB.NET), DevExpress, Java, Android, PHP, Python, Sqlserver, Mysql, MongoDB Reactjs, Flutter, API services and lot more....
 
-💞️ I’m looking to collaborate in developing innovative software.
+💞️ I’m looking to collaborate in developing innovative software. 🚀
 
 ## 📫 How to reach me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nguyenhoanghai1605)
