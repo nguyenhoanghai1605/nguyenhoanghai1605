@@ -30,6 +30,15 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://github.com/nguyenhoanghai1605)
 [![Zalo Mini Apps](https://img.shields.io/badge/Zalo%20Mini%20Apps-00AEEF?style=flat&logo=zalo&logoColor=white)](https://github.com/nguyenhoanghai1605)
 
+## 💻 Software and tools  
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white)](https://github.com/nguyenhoanghai1605)
 
 
 
