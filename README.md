@@ -6,7 +6,7 @@
 💞️ I’m looking to collaborate in developing innovative software.
 
 ## 📫 How to reach me:
-![image](https://github.com/user-attachments/assets/1f2c7b65-ccd4-46a6-af74-01efa224d8f3)
+![image]([https://github.com/user-attachments/assets/1f2c7b65-ccd4-46a6-af74-01efa224d8f3](https://github.com/nguyenhoanghai1605))
 
 
 
