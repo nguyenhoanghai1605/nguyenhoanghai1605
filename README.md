@@ -6,11 +6,11 @@
 💞️ I’m looking to collaborate in developing innovative software.
 
 ## 📫📞 How to reach me:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nguyenhoanghai1605)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenhoanghai16051996@gmail.com)  
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white)](https://zalo.me/0343327971) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nhhai1605)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hai.nh1605)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenhoanghai16051996@gmail.com)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white)](https://zalo.me/0343327971)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nhhai1605)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hai.nh1605)
 
 ## 🛠️ My favorite tools
 ## 👨‍💻 Programming languages  
