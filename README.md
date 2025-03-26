@@ -9,8 +9,7 @@
 </a>
 </div>
 <br>
-
-##🙋‍♂️ Connect with me Admin at blog
+## 🙋‍♂️ Connect with me Admin at blog
 
 ## About Me 👋
 👀 I am interested in Web, internal software HRM, QLK, ERP etc..
