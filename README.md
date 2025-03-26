@@ -1,5 +1,9 @@
-## Hi there 👋
+## About Me 👋
+👀 I am interested in Web, internal software HRM, QLK, ERP etc..
 
+🌱 My skills includes .NET(C#, VB.NET), DevExpress, Java, Android, PHP, Python, Sqlserver, Mysql, MongoDB Reactjs, Flutter, API services and lot more....
+
+💞️ I’m looking to collaborate in developing innovative software.
 <!--
 **nguyenhoanghai1605/nguyenhoanghai1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
