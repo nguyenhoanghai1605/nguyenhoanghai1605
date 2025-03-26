@@ -39,7 +39,16 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/nguyenhoanghai1605)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://github.com/nguyenhoanghai1605)
 [![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white)](https://github.com/nguyenhoanghai1605)
-
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obs-studio&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://github.com/nguyenhoanghai1605)
+[![Visio](https://img.shields.io/badge/Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)](https://github.com/nguyenhoanghai1605)
 
 
 
