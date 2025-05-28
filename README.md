@@ -70,7 +70,8 @@
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://github.com/nguyenhoanghai1605)
 [![Visio](https://img.shields.io/badge/Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)](https://github.com/nguyenhoanghai1605)
 
-
+## Core wallet
+<a href="https://app.daily.dev/hainguyenhoang"><img src="https://api.daily.dev/devcards/v2/4pTGnODOGHNTelsFkrUx3.png?type=default&r=t1t" width="356" alt="Hai, Nguyen Hoang's Dev Card"/></a>
 
 <!--
 **nguyenhoanghai1605/nguyenhoanghai1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
