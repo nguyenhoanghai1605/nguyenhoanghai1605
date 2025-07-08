@@ -88,7 +88,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Display details
-![Repo Creator](https://img.shields.io/badge/Repo%20Creator-100pt-yellow)
-![Dynamic User](https://img.shields.io/badge/Dynamic%20User-28pt-green)
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-Gold%20Repo%20Creator-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-Experienced%20Dev-brightgreen?style=for-the-badge&logo=visualstudio" />
+  <img src="https://img.shields.io/badge/Followers-Dynamic%20User-blue?style=for-the-badge&logo=twitter" />
+  <img src="https://img.shields.io/badge/Commits-First%20Commit-lightgrey?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Stars-First%20Star-ffcc00?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-Open%20Contributor-blueviolet?style=for-the-badge&logo=gitbook" />
+</p>
 
