@@ -87,3 +87,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Display details
+![Repo Creator](https://img.shields.io/badge/Repo%20Creator-100pt-yellow)
+![Dynamic User](https://img.shields.io/badge/Dynamic%20User-28pt-green)
+
