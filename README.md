@@ -109,5 +109,3 @@ Here are some ideas to get you started:
       <img align="left" src="https://camo.githubusercontent.com/421c7c603a86e1785a16cbefcb34d9d73ddfa2c821501729b09aafdf0024e1ed/68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669332e706e673f763d33" height="50" width="210" alt="nguyenhoanghai1605" data-canonical-src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" style="max-width: 100%; height: auto; max-height: 50px;">
   </a> 
 
-##
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nhhai1605)
