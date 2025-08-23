@@ -11,9 +11,11 @@
 <br>
 
 ## 🙋‍♂️ Connect with me Admin at blog: 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nhhai1605)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://nguyenhoanghai1605.github.io/HaiDev/Blog/)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguyenhoanghai1605.github.io/HaiDev/Blog/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nhhai1605)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://nguyenhoanghai1605.github.io/HaiDev/Blog/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://nguyenhoanghai1605.github.io/HaiDev/Blog/)
+
 
 
 
