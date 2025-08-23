@@ -10,7 +10,8 @@
 </div>
 <br>
 
-## 🙋‍♂️ Connect with me Admin at blog: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nhhai1605)
+## 🙋‍♂️ Connect with me Admin at blog: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nhhai1605) [![Blog](https://img.shields.io/badge/Blog-Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/nguyenhoanghai1605/HaiDev)
+
 
 ## About Me 👋
 👀 I am interested in Web, internal software HRM, QLK, ERP etc..
