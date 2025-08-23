@@ -10,7 +10,7 @@
 </div>
 <br>
 
-## 🙋‍♂️ Connect with me Admin at blog: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nhhai1605) [![Blog](https://img.shields.io/badge/Blog-Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/nguyenhoanghai1605/HaiDev)
+## 🙋‍♂️ Connect with me Admin at blog: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nhhai1605) [![Blog](https://img.shields.io/badge/Blog-Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguyenhoanghai1605.github.io/HaiDev/Blog/)
 
 
 ## About Me 👋
