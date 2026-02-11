@@ -106,10 +106,10 @@ Here are some ideas to get you started:
 ## 🌠 Support 
 
 <a href="https://www.buymeacoffee.com/nguyenhoanghai1605" rel="nofollow"> 
-    <img align="left" height="50" width="210" alt="68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669332e706e673f763d33" src="https://github.com/user-attachments/assets/fe4fee99-e13c-449d-9887-e80dd2f0a64e" style="max-width: 100%; height: auto; max-height: 50px;"/>
+    <img align="left" height="50" width="210" alt="68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" src="https://github.com/user-attachments/assets/8ec82aa7-d965-43ca-99bd-966b37809a7e" style="max-width: 100%; height: auto; max-height: 50px;"/>
   </a>
  <a href="https://ko-fi.com/nguyenhoanghai1605" rel="nofollow">
-      <img align="left" height="50" width="210" alt="68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" src="https://github.com/user-attachments/assets/8ec82aa7-d965-43ca-99bd-966b37809a7e" style="max-width: 100%; height: auto; max-height: 50px;"/>
+      <img align="left" height="50" width="210" alt="68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669332e706e673f763d33" src="https://github.com/user-attachments/assets/fe4fee99-e13c-449d-9887-e80dd2f0a64e" style="max-width: 100%; height: auto; max-height: 50px;"/>
   </a> 
 
 
